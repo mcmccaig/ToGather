@@ -2,7 +2,9 @@
 Three day multidisciplinary hackathon organized by Microsoft and BrainStation
 
 Web Developers: Russell Winters & Rylan Ferrer
+
 UX Designers: Winona Huang & Rita Law
+
 Data Scientists: Mitchell McCaig & Leon Jaworsky
 
 # Installation 
